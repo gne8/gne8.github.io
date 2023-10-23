@@ -1,0 +1,44 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: thecool's Blog
+theme: PaperMod
+
+enableEmoji: true
+
+params:
+    assets:
+      favicon: "/img/favicon.ico"
+
+    profileMode:
+        enabled: true
+        title: Welcome to thecool's blog!  😎
+        subtitle:
+          Data Analyzooor, Dev-learnooor
+        imageUrl: https://pbs.twimg.com/profile_images/1701368052590501888/RueIUFj7_400x400.jpg
+        imageTitle: thecool
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Posts
+              url: "/posts"
+            - name: About
+              url: "/about"
+            - name: Dune
+              url: "https://dune.com/thecool"
+
+    socialIcons: # optional
+      - name: Github
+        url: "https://github.com/gne8"
+      - name: Twitter
+        url: "https://twitter.com/EthThecool"
+      
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
