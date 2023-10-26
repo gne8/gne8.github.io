@@ -5,6 +5,9 @@ date: 2023-10-26
 summary: "On how to navigate ethereum"
 draft: false
 tags: ["Ethereum", "Etherscan", "Guide", "Part 1", "Beginner"]
+header:
+  image: "assets/thecool_pfp.jpeg"
+  description: "Navigating Ethereum Using Etherscan (Part 1)"
 ---
 
 ### Why Etherscan?
