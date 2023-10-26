@@ -9,8 +9,8 @@ params:
     env: production
     description: thecool's Blog
     ShowShareButtons: true
-    images: ["img/thecool_banner.png"]
-    thumbnail: "img/thecool_banner.png"
+    images: ["img/thecool_banner_manga.png"]
+    thumbnail: "img/thecool_banner_manga.png"
 
     assets:
       favicon: "/img/favicon.ico"
