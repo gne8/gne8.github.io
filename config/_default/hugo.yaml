@@ -6,6 +6,11 @@ theme: PaperMod
 enableEmoji: true
 
 params:
+    env: production
+    description: thecool's Blog
+    ShowShareButtons: true
+    images: ["assets/thecool_pfp.jpeg"]
+
     assets:
       favicon: "/img/favicon.ico"
 
