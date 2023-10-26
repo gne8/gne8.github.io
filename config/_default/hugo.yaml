@@ -9,7 +9,8 @@ params:
     env: production
     description: thecool's Blog
     ShowShareButtons: true
-    images: ["/assets/thecool_pfp.jpeg"]
+    images: ["img/thecool_pfp.jpeg"]
+    thumbnail: "img/thecool_pfp.jpeg"
 
     assets:
       favicon: "/img/favicon.ico"
